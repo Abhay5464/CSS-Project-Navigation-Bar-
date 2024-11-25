@@ -1,6 +1,8 @@
 # CSS Mini Project: Sidebar Navigation
 
-A simple and elegant sidebar navigation design created using only HTML and CSS. This project demonstrates the use of checkboxes to toggle visibility and interactivity for buttons, ensuring functionality without JavaScript.
+This project showcases a modern and interactive <b>sidebar navigation menu</b>, created using only <b>HTML</b> and <b>CSS</b>, with no JavaScript involved. The sidebar is designed with a smooth and aesthetic layout, featuring multiple navigation links and social media icons.
+
+The project uses checkboxes to create a toggle button for opening and closing the sidebar, providing a simple yet effective interactivity. A visually appealing background image adds to the overall design, making it perfect for portfolios, blogs, or small web applications.
 
 # Features
 
